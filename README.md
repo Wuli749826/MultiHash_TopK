@@ -4,6 +4,7 @@ pingcap project
 ### Build
 
 ```shell
+# mkdir build
 # cd build
 # cmake ..
 # make
